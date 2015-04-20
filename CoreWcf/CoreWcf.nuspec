@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$id$</title>
+        <authors>Ben McCallum</authors>
+        <owners>Ben McCallum</owners>
+        <projectUrl>http://github.com/benmccallum/CoreWcf</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A library of core helpers, extensions, constants, enums and other useful things for .NET WCF projects.</description>
+        <tags>Core Web WCF CORS API Library Extensions Helpers Common</tags>
+		<frameworkAssemblies>
+			<frameworkAssembly assemblyName="System" targetFramework="" />
+			<frameworkAssembly assemblyName="System.ServiceModel" targetFramework="" />
+			<frameworkAssembly assemblyName="System.Xml" targetFramework="" />
+			<frameworkAssembly assemblyName="System.Xml.Linq" targetFramework="" />			
+		</frameworkAssemblies>
+    </metadata>
+</package>
