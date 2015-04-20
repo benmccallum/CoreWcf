@@ -12,9 +12,8 @@
         <tags>Core Web WCF CORS API Library Extensions Helpers Common</tags>
 		<frameworkAssemblies>
 			<frameworkAssembly assemblyName="System" targetFramework="" />
-			<frameworkAssembly assemblyName="System.ServiceModel" targetFramework="" />
-			<frameworkAssembly assemblyName="System.Xml" targetFramework="" />
-			<frameworkAssembly assemblyName="System.Xml.Linq" targetFramework="" />			
+			<frameworkAssembly assemblyName="System.Configuration" targetFramework="" />
+			<frameworkAssembly assemblyName="System.ServiceModel" targetFramework="" />		
 		</frameworkAssemblies>
     </metadata>
 </package>
