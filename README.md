@@ -1,6 +1,6 @@
 CoreWeb
 =======
-<!--[![Build status](https://ci.appveyor.com/api/projects/status/an3ae5b27guf47iu)](https://ci.appveyor.com/project/benmccallum/coreweb)-->
+[![Build status](https://ci.appveyor.com/api/projects/status/aq9spdajwtg8db5y/branch/master?svg=true)](https://ci.appveyor.com/project/benmccallum/corewcf/branch/master)
 
 A library of core helpers, extensions, constants, enums and other useful things for .NET WCF projects.
 
@@ -11,7 +11,7 @@ A library of core helpers, extensions, constants, enums and other useful things 
 	
 ## Features
 ### Add CORS support to your services
-The CoreWcf assmembly contains all you need to add CORS support to WCF endpoints.
+The CoreWcf assembly contains all you need to add CORS support to WCF endpoints.
 It contains the classes described [here](http://enable-cors.org/server_wcf.html), so add the web.config changes as described using
 
 ```
