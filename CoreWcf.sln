@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWcf", "CoreWcf\CoreWcf.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "(global)", "(global)", "{02A90232-5E70-49B7-866F-BACF8ACEF002}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		CoreWcf\CoreWcf.nuspec = CoreWcf\CoreWcf.nuspec
 		README.md = README.md
 	EndProjectSection
